@@ -1,0 +1,58 @@
+
+
+
+a{
+    text-align: right;
+    
+    width:100%;
+    height:100vh ;
+    color: blue;
+    background-position:right ;
+   
+ 
+}
+body{
+    background-color:lightblue;
+    background-image:url("Screenshot\ 2023-09-24\ 201236.png");
+    background-size: 100%;
+    
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    font-size:50px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+h3{
+    text-align: center;
+    color: blue;
+}
+a{
+    text-align: center;
+}
+
+#hat{
+    text-align: right;
+    .move-up {
+        position: relative;
+        top: 50px;
+    }
+}
+ #tap{
+    text-align: center;
+ }
+
+.styled-image{
+    height: auto;
+    float:right;
+    align-self: start;
+    width: 100px;
+    border: 2px solid;
+    .move-right{
+        margin-left: 80px;
+    }
+    }
+    
+
